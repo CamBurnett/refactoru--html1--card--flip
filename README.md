@@ -1,3 +1,4 @@
 # My first repository
 
-Wassah dude "cool" "popcorn"
+Wassah dude ."cool". ."popcorn".
+
